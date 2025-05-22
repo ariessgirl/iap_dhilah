@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Fadhilah Awaliyah",
+        "umur" : 21,
+        "nim" : "2217020064",
+        "lulus" : true,
+        "hobby" : [
+            "sport",
+            "reading",
+            "music"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Haditya Prasetyo",
+            "pembimbing 2" : "Raju Wandira"
+        }
+    },
+    {
+        "nama" : "Hafsah Khoiriyah",
+        "umur" : 19,
+        "nim" : "2417020026",
+        "lulus" : true,
+        "hobby" : [
+            "sport",
+            "watching",
+            "music"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "M. Teguh Brillian",
+            "pembimbing 2" : "Ozzy Secio Riza"
+        }
+    }
+]
